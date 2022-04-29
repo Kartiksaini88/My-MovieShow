@@ -1,6 +1,6 @@
 # My-MovieShow
 
-<h2>Here I made a My-MovieShote site demo ✨</h2>
+<h2>Here I made a My-MovieShow site demo ✨</h2>
 
 <img src="https://www.bing.com/images/blob?bcid=S8e7CBkpexsEYA" alt="Movieshow"/>
 

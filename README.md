@@ -1,9 +1,25 @@
 # My-MovieShow
 
-<h2>Here I made a My-MovieShow site demo ✨</h2>
+*This a website where an user can be able to search a particular movie which has shown in this site.*
 
-<img src="https://www.bing.com/images/blob?bcid=S8e7CBkpexsEYA" alt="Movieshow"/>
-<h2>Here's the link of my demo My-MovieShow project: <a href="https://adorable-llama-f7e894.netlify.app/" target="_blank">My-MovieShow</a> </h2>
-<h3>Languages that we have used in this project:- HTML  | CSS  | JavaScript</h3>
-<h3>
-Pick any random movie and you can see the movie's details. You can also search a particular movie and you can also sort them on the based of their IMBD rating..</h3>
+## Technology Stack Used
+
+- #### Languages
+  - `HTML`
+  - `CSS`
+  - `Javascript`
+
+
+## Snapshots 📷
+- Landing Page (Main Page):
+  
+![Main Page](https://user-images.githubusercontent.com/97525903/167254590-f0d4ba4a-eb74-46c3-a724-a5165b86cc8c.png)
+
+
+
+### Limitations:
+This site is not responsive yet.
+(Recomended Resolution: 1366 x 768 )
+
+# Link to the website : 
+https://adorable-llama-f7e894.netlify.app/

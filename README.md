@@ -10,7 +10,7 @@
   - `Javascript`
 
 
-## Snapshots 📷
+## Snapshot 📷
 - Landing Page (Main Page):
   
 ![Main Page](https://user-images.githubusercontent.com/97525903/167254590-f0d4ba4a-eb74-46c3-a724-a5165b86cc8c.png)
